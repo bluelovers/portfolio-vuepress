@@ -19,3 +19,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/主题/我的这套vuepress主题你熟悉吧.md
